@@ -17,38 +17,36 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              ABOUT <span className="purple"> ME </span>
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm a <b className="purple">System Developer</b> with 1+ year of experience building and optimizing
+              enterprise-grade applications for the insurance industry! 🚀
               <br />
-              <br />I am fluent in classics like
+              <br />I work with technologies like
               <i>
-                <b className="purple"> Javascript, Java and C++. </b>
+                <b className="purple"> .NET, C#, JavaScript, Java, and Python </b>
+              </i>
+              to deliver robust full-stack solutions.
+              <br />
+              <br />
+              My expertise lies in building &nbsp;
+              <i>
+                <b className="purple">Enterprise .NET Applications, </b>
+                <b className="purple">Backend Optimization, </b>
+                <b className="purple">Modern Web Technologies, </b> and
+                also exploring areas like <b className="purple">Blockchain.</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to <b className="purple">Blockchain.</b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">React.js</b> and
+              I have hands-on experience developing production systems with
+              <b className="purple"> .NET Framework, SQL Server, </b> and
+              <b className="purple">Windows Services, </b>
+              while also building modern web applications with
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple">
-                  {" "}
-                  React.js, tailwind, express.js, node.js
+                  React.js, Redux, Tailwind CSS, Node.js, and Express.js
                 </b>
               </i>
             </p>

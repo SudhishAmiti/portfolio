@@ -11,9 +11,14 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Amiti Sudhish </span>
             from <span className="purple"> Andhra Pradesh, India.</span>
             <br />
-            I am currently employed as a aspiring developer.
             <br />
-            I am pursuing my B Tech at Lendi Institute of Engineering and Technology.
+            I am a <span className="purple">System Developer</span> with 1+ year of experience in building, optimizing, and maintaining enterprise-grade full-stack .NET applications on on-prem infrastructure.
+            <br />
+            <br />
+            I have hands-on experience working on a core company product serving insurance clients, with strong exposure to backend optimization, frontend performance improvements, and internal tooling.
+            <br />
+            <br />
+            I am currently pursuing my B.Tech in Computer Science and Engineering at Lendi Institute of Engineering and Technology.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

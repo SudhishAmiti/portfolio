@@ -5,18 +5,23 @@ import './Experience.css';
 
 const experiences = [
     {
-      company: 'Symbiosis Technologies',
-      role: 'React Developer Intern',
-      description: 'As a React developer, I boosted team efficiency by 60% through developing reusable components and enhanced site performance by 70% with precise UI designs. I led initiatives to ensure timely project delivery and introduced new tools, increasing development workflow efficiency by 50%',
-      duration: 'May 2024 - June 2024'
+      company: 'Hansa Solutions Private Limited',
+      role: 'System Developer (.NET)',
+      description: 'Working on the core enterprise product IONE G, developing and maintaining full-stack features using .NET, SSMS, HTML, Bootstrap, JavaScript, and jQuery. Designed schedulers for premium reports and receipt generation using Windows Services. Optimized backend APIs and SQL Server queries for production performance. Delivered solutions for Bajaj Life Insurance, CALI, and MCIS Life Insurance. Led R&D initiatives and implemented Gitea for on-prem version control.',
+      duration: 'Jan 2025 - Jan 2026'
     },
     {
-      company: 'CGeeksForGeeks LIET',
-      role: 'Technical Associate',
-      description: 'I primarily maintained the club website, achieving 90% uptime to ensure seamless operations. By implementing strategic performance optimizations, I increased the website speed by 30%. Additionally, I collaborated with the team to develop over 5 new features, significantly enhancing the websites functionality',
-      duration: 'May 2023 - present'
+      company: 'Symbiosis Technologies',
+      role: 'React Developer Intern',
+      description: 'Developed reusable React components to improve development efficiency and UI consistency. Improved frontend responsiveness and page load performance through optimized component design. Worked with designers and developers to deliver features within defined timelines.',
+      duration: 'May 2024 - Jul 2024'
     },
-    // Add more experiences as needed
+    {
+      company: 'GeeksForGeeks LIET',
+      role: 'Technical Associate',
+      description: 'Conducted multiple technical sessions and hackathons, mentoring students and promoting hands-on development. Maintained the club website and collaborated with the team to develop new features, significantly enhancing the website\'s functionality.',
+      duration: 'May 2023 - Present'
+    },
   ];
 const ExperienceSection = () => {
   return (
