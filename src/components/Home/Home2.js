@@ -35,7 +35,7 @@ function Home2() {
                 <b className="purple">Enterprise .NET Applications, </b>
                 <b className="purple">Backend Optimization, </b>
                 <b className="purple">Modern Web Technologies, </b> and
-                also exploring areas like <b className="purple">Blockchain.</b>
+                also exploring areas like <b className="purple">Devops and GenAI.</b>
               </i>
               <br />
               <br />
